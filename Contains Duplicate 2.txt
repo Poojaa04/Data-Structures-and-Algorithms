@@ -15,3 +15,7 @@ public:
         return false;
     }
 };
+
+
+Note:
+find(key): Returns an iterator to the element if the key is found, or end() if it is not found.
